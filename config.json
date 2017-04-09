@@ -1,0 +1,20 @@
+{
+  "bridge": {
+    "name": "PiWeather",
+    "username": "CD:22:3D:E3:CE:30",
+    "port": 51826,
+    "pin": "031-45-156"
+  },
+
+  "description": "Create a brigde from the pi-weather-server to HomeKit-Integration.",
+
+  "platforms": [],
+
+  "accessories": [
+    {
+      "accessory": "AdvancedHttpTemperatureHumidity",
+      "name": "Pi-Weather",
+      "url": "http://localhost:3000/api/live/sensor/"
+    }
+  ]
+}
