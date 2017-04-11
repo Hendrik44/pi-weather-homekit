@@ -11,7 +11,7 @@ A HomeKit-Integration for Pi-Weather-Server
 ## Install
 1. Its easy, only run this command to install:
 ```
-curl -sL https://github.com/Hendrik44/pi-weather-homekit/blob/master/install.sh | sudo bash 
+curl -sL https://raw.githubusercontent.com/Hendrik44/pi-weather-homekit/master/install.sh | sudo bash 
 ```
 
 2. Then add Pi-Weather in Homekit and enter the pin: `031-45-156`
