@@ -18,4 +18,6 @@ curl -sL https://raw.githubusercontent.com/Hendrik44/pi-weather-homekit/master/i
 3. Now you can ask Siri for your current temperature or humidity or check it in HomeKit-App ;-)
 
 ## License
-MIT see Licencefile
+Copyright (c) 2017 Hendrik Jürst
+
+This project is published under MIT-License. For more see LICENSE-File.
